@@ -18,3 +18,4 @@ mongo.properties
 oss.properties
 
 oss.properties
+/target/
